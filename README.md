@@ -1,2 +1,2 @@
-# Scrap Brain
-Make game.
+# .github
+Organization-wide resources.
